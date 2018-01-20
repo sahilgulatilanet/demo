@@ -1,0 +1,14 @@
+{
+  "name": "nodesahil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstnpm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sahil",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
